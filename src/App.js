@@ -5,9 +5,9 @@ import Form from './Form';
 
 
 const testData = [
-  { name: "Sebastian Markbåge",
-   avatar_url: "https://avatars2.githubusercontent.com/u/63648?v=4",
-   company: "Facebook" },
+  // { name: "Sebastian Markbåge",
+  //  avatar_url: "https://avatars2.githubusercontent.com/u/63648?v=4",
+  //  company: "Facebook" },
 ];
 
 export default class App extends React.Component {
